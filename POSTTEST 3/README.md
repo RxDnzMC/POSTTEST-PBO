@@ -35,10 +35,8 @@ A. Perubahan di Posttest 3 (Inheritance)
 B. Struktur Class
 -----------------------------------------
 - Senjata (Superclass)
-    |
-    |-- SenjataMelee (Subclass) -> Tambahan: panjangBilah
-    |
-    |-- SenjataRange (Subclass) -> Tambahan: jarakTembak
+- - SenjataMelee (Subclass) -> Tambahan: panjangBilah
+- - SenjataRange (Subclass) -> Tambahan: jarakTembak
 
 -----------------------------------------
 C. Cara Menjalankan
