@@ -50,5 +50,3 @@ C. Cara Menjalankan
    java Main
 5. Masukkan pilihan menu 1 untuk Melee atau 2 untuk Range untuk 
    melihat perbedaan input data.
-
-=========================================
